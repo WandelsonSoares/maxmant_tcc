@@ -1,7 +1,7 @@
 # maxmant_tcc
 Gerenciador de empréstimo de ferramentas - TCC Puc Minas
 
-Projeto em fase de desenvolvimento como objeto do Trabalho de Conclusão de Curso da especialização em Desenvolvimento Web Full Stack da Puc Minas.
+Projeto para fins de estudo prático de novas tecnologias de desenvolvimento web.
 
 Tecnologias:
 * API Asp.Net Core
