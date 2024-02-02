@@ -1,5 +1,5 @@
 # maxmant_tcc
-Gerenciador de empréstimo de ferramentas - TCC Puc Minas
+Gerenciador de empréstimo de ferramentas
 
 Projeto para fins de estudo prático de novas tecnologias de desenvolvimento web.
 
